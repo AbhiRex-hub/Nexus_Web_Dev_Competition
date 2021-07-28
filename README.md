@@ -13,6 +13,25 @@ The Home page lists all the available options available to navigate to the speci
 so that user can navigate through the website easily.'''''''
 
 
+Some part of the homepage is shown below. As shown in the image there is a navigation bar at the top by using which you can navigate through the website easily.
+
 ![image](https://user-images.githubusercontent.com/68283511/127315167-8c5a343a-9087-4e86-adab-9d66f5b6405c.png)
 
+---> Homepage: It contains all the links to other pages of the website. Homepage contains navigation bar, logo of the website, trending content, sale info, personal recommendations for the user, most popuar books. Out of these, navigation bar and book called "Educated" are clickable and redirect to other pages
+
+---> About link: Click on "About" to see info about website.
+---> Bestsellers link: Click on "Bestsellers" to see bestselling books.
+---> New link: Click on "New" to see new released books.
+---> Recommendations link: Click on "Recommendations" to see personal recommendations for the user.
+---> Interviews link: Click on "Interviews" to see the interviews of famous authors.
+---> Competitions: Click on "Competitions" to see the live book writing competitions and participate in them.
+---> E-books link: Click on "E-books" to see E-books user has purchased.
+---> Contact link: Click on "Contact: to see the contact details of the designer (XD that is me!)
+
+(Note: I have included the same layout to "Bestsellers, New, Recommendations" pages, as this is just a sample website.)
+
+---> Book Description: 
+  ---> Click on the cover of the book called "Educated" to see the sample description of the book.
+  For example: 
+  
 
