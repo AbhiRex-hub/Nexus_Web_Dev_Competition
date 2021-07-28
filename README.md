@@ -13,5 +13,6 @@ The Home page lists all the available options available to navigate to the speci
 so that user can navigate through the website easily.'''''''
 
 
+![image](https://user-images.githubusercontent.com/68283511/127315167-8c5a343a-9087-4e86-adab-9d66f5b6405c.png)
 
 
