@@ -1,0 +1,140 @@
+.Background_Image{
+	width: 100vw;
+	height: 40vh;
+	background-image: url('https://static01.nyt.com/images/2020/12/04/books/04CRITICSPICKS-COMBO/00BOOKCOMBO-superJumbo.jpg');
+	z-index: 1;
+	position: absolute; 
+	top: 0px;
+	left: 0px;
+	background-size: cover;
+	background-position: 0% 50%;
+}
+
+.navbar{
+	width:88.3vw; 
+	height: 10vh; 
+	background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,1)); 
+	z-index: 3; 
+	position: relative; 
+	border-radius: 50px; 
+	top: 0vh; 
+	left: 4.6vw; 
+	border: solid 2px orange; 
+	backdrop-filter: blur(10px); 
+	display: flex; 
+	justify-content: space-between; 
+	align-items: center; 
+	font-family: roboto; 
+	font-size: 30vh;
+}
+
+.link{
+	color: black;
+}
+
+.link:visited{
+	color: black;
+}
+
+.link:hover{
+	background-color: black;
+	color: white;
+}
+
+.title{
+	width: 20%;
+	height: 10vh;
+	background: linear-gradient(45deg, rgb(150,210,230), rgb(0,130,170));
+	position: relative;
+	left:  40vw;
+	top: 8vh;
+	z-index: 2;
+	font-size: 4vh;
+	font-family: roboto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 1px 1px 4px black;
+}
+
+.frame{
+	width: 90%;
+	height: 40vh;
+	background-color: rgb(52,30,30);
+	position: relative;
+	top: 25vh;
+	left: 5vw;
+	z-index: 2;
+	display: flex;
+	justify-content: space-around;
+}
+
+.f1{
+	width: 10vw; 
+	height: 32.2vh;
+	background-size: cover; 
+	z-index: 2; 
+	position: relative; 
+	top: 10%;
+	background-image: url('https://i.pinimg.com/236x/0c/ee/7e/0cee7e54fda8ac99ec11459448e89c7d.jpg'); 
+}
+
+.f2{
+	width: 10vw; 
+	height: 32.2vh;
+	background-size: cover; 
+	z-index: 2; 
+	position: relative; 
+	top: 10%;
+	background-image: url('https://www.hachette.co.uk/wp-content/uploads/2019/05/hbg-title-9781472154699-44.jpg?fit=430%2C675'); 
+}
+
+.f3{
+	width: 10vw; 
+	height: 32.2vh;
+	background-size: cover; 
+	z-index: 2; 
+	position: relative; 
+	top: 10%;
+	background-image: url('https://cdn.pastemagazine.com/www/system/images/photo_albums/best-book-covers-fall-2019/large/bbcdune.jpg?1384968217'); 
+}
+
+.f4{
+	width: 10vw; 
+	height: 32.2vh;
+	background-size: cover; 
+	z-index: 2; 
+	position: relative; 
+	top: 10%;
+	background-image: url('https://i.pinimg.com/736x/a0/e6/26/a0e626af3883e109da440ec021080f99.jpg'); 
+}
+
+.f5{
+	width: 10vw; 
+	height: 32.2vh;
+	background-size: cover; 
+	z-index: 2; 
+	position: relative; 
+	top: 10%;
+	background-image: url('https://api.time.com/wp-content/uploads/2014/12/the-fault-in-our-stars.jpg'); 
+}
+
+.f6{
+	width: 10vw; 
+	height: 32.2vh;
+	background-size: cover; 
+	z-index: 2; 
+	position: relative; 
+	top: 10%;
+	background-image: url('https://images.squarespace-cdn.com/content/v1/5ae2fce87e3c3ae275ea2c9f/1526464175408-W92Q4MSAM40I8YF4HM64/tess-cover.jpg?format=1500w'); 
+}
+
+.f7{
+	width: 10vw; 
+	height: 32.2vh;
+	background-size: cover; 
+	z-index: 2; 
+	position: relative; 
+	top: 10%;
+	background-image: url('https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/124626092/original/edcda9a21dd4d0156ed0c492ba88915fab926dde/create-creative-and-modern-book-cover-design.jpg'); 
+}
