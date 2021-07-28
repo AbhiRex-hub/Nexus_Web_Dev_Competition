@@ -1,0 +1,234 @@
+body{
+	background-image: url('https://www.hellomagazine.com/imagenes/film/20210106103917/novels-being-released-in-2021-best-releases/0-500-342/books-2021-t.jpg');
+}
+
+.navbar{
+	width:88.3vw; 
+	height: 10vh; 
+	background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,1)); 
+	z-index: 3; 
+	position: relative; 
+	border-radius: 50px; 
+	top: 0vh; 
+	left: 4.6vw; 
+	border: solid 2px orange; 
+	backdrop-filter: blur(10px); 
+	display: flex; 
+	justify-content: space-between; 
+	align-items: center; 
+	font-family: roboto; 
+	font-size: 30vh;
+}
+
+.link{
+	color: black;
+}
+
+.link:visited{
+	color: black;
+}
+
+.link:hover{
+	background-color: black;
+	color: white;
+}
+
+.title{
+	width: 20%;
+	height: 10vh;
+	background: linear-gradient(45deg, rgb(150,210,230), rgb(0,130,170));
+	position: relative;
+	left:  40vw;
+	top: 5vh;
+	z-index: 2;
+	font-size: 4vh;
+	font-family: roboto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-shadow: 1px 1px 4px black;
+}
+
+.Frame{
+	width: 80vw;
+	height: 120vh;
+	position: relative;
+	top: 10vh;
+	left: 10vw;
+	background-color: rgb(222,212,197);
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+	box-shadow: 1px 1px 5px black;
+}
+
+.I1{
+	width: 70vw; 
+	height: 30vh; 
+	background-color: rgb(52,30,30); 
+	position: relative; 
+	z-index: 3; 
+	border-radius: 15px; 
+	display: flex; 
+	justify-content: space-around;	
+}
+
+
+.t1_1{
+	width: 20vw;
+	height: 25vh;
+	background-image: url('https://www.junobeachsmiles.com/assets/images/stock_lasergumcontouring.jpg');
+	background-size: cover;
+	position: relative;
+	top: 6%;
+}
+
+
+.t1_2{
+	width: 8.5vw;
+	height: 25vh;
+	background-image: url('In_book.png');
+	background-size: cover;
+	position: relative;
+	top: 6%;
+}
+
+.t1_3{
+	width: 25vw;
+	height: 10vh;
+	background-color: rgb(255,251,246);
+	position: relative;
+	top: 7%;
+	font-size: 2vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: justify;
+	padding: 1vw 2vw 1vw 2vw;
+	border-radius: 5px;
+}
+
+.t1_4{
+	width: 10vw;
+	height: 5vh;
+	position: relative;
+	top: 5vh;
+	left: 8.5vw;
+	background: linear-gradient(45deg, rgb(150,210,230), rgb(0,130,170));
+	border-radius: 10px;
+	box-shadow: 1px 1px 4px black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2vh;
+	font-weight: 1000;
+	cursor: pointer;
+}
+
+
+.t2_1{
+	width: 20vw;
+	height: 25vh;
+	background-image: url('https://images.pexels.com/photos/6238175/pexels-photo-6238175.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background-size: cover;
+	background-position: 0% 50%;
+	position: relative;
+	top: 6%;
+}
+
+
+.t2_2{
+	width: 8.5vw;
+	height: 25vh;
+	background-image: url('In_book2.png');
+	background-size: cover;
+	position: relative;
+	top: 6%;
+}
+
+.t2_3{
+	width: 25vw;
+	height: 10vh;
+	background-color: rgb(255,251,246);
+	position: relative;
+	top: 7%;
+	font-size: 2vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: justify;
+	padding: 1vw 2vw 1vw 2vw;
+	border-radius: 5px;
+}
+
+.t2_4{
+	width: 10vw;
+	height: 5vh;
+	position: relative;
+	top: 5vh;
+	left: 8.5vw;
+	background: linear-gradient(45deg, rgb(150,210,230), rgb(0,130,170));
+	border-radius: 10px;
+	box-shadow: 1px 1px 4px black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2vh;
+	font-weight: 1000;
+	cursor: pointer;
+}
+
+
+.t3_1{
+	width: 20vw;
+	height: 25vh;
+	background-image: url('https://images.pexels.com/photos/7129049/pexels-photo-7129049.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background-size: cover;
+	background-position: 0 50%;
+	position: relative;
+	top: 6%;
+}
+
+
+.t3_2{
+	width: 8.5vw;
+	height: 25vh;
+	background-image: url('In_book3.png');
+	background-size: cover;
+	position: relative;
+	top: 6%;
+	background-position: 0% 40%;
+}
+
+.t3_3{
+	width: 25vw;
+	height: 10vh;
+	background-color: rgb(255,251,246);
+	position: relative;
+	top: 7%;
+	font-size: 2vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: justify;
+	padding: 1vw 2vw 1vw 2vw;
+	border-radius: 5px;
+}
+
+.t3_4{
+	width: 10vw;
+	height: 5vh;
+	position: relative;
+	top: 5vh;
+	left: 8.5vw;
+	background: linear-gradient(45deg, rgb(150,210,230), rgb(0,130,170));
+	border-radius: 10px;
+	box-shadow: 1px 1px 4px black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 2vh;
+	font-weight: 1000;
+	cursor: pointer;
+}
